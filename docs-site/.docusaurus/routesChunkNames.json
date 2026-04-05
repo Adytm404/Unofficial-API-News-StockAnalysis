@@ -1,0 +1,43 @@
+{
+  "/-200": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/-df3": {
+    "__comp": "a7bd4aaa",
+    "__props": "22dd74f7"
+  },
+  "/-7bb": {
+    "__comp": "a94703ab"
+  },
+  "/endpoints/gainers-9ce": {
+    "__comp": "17896441",
+    "content": "e1ae2a21"
+  },
+  "/endpoints/ipos-ede": {
+    "__comp": "17896441",
+    "content": "bbaccbd1"
+  },
+  "/endpoints/losers-de7": {
+    "__comp": "17896441",
+    "content": "8d69f4be"
+  },
+  "/endpoints/news-aee": {
+    "__comp": "17896441",
+    "content": "0605b907"
+  },
+  "/endpoints/stocks-by-code-5ad": {
+    "__comp": "17896441",
+    "content": "15e42c25"
+  },
+  "/endpoints/trending-7e0": {
+    "__comp": "17896441",
+    "content": "19bbe40f"
+  },
+  "/-b56": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  }
+}

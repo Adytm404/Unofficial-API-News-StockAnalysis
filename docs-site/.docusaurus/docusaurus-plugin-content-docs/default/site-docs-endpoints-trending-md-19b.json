@@ -1,0 +1,25 @@
+{
+  "id": "endpoints/trending",
+  "title": "GET /api/trending",
+  "description": "Mengambil data Trending Today pada section Top Stocks dari halaman berikut:",
+  "source": "@site/docs/endpoints/trending.md",
+  "sourceDirName": "endpoints",
+  "slug": "/endpoints/trending",
+  "permalink": "/endpoints/trending",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "GET /api/trending"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "GET /api/news/{code}",
+    "permalink": "/endpoints/stocks-by-code"
+  },
+  "next": {
+    "title": "GET /api/gainers",
+    "permalink": "/endpoints/gainers"
+  }
+}

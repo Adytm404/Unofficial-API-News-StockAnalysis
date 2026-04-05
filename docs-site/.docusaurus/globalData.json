@@ -1,0 +1,63 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "endpoints/gainers",
+              "path": "/endpoints/gainers",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "endpoints/ipos",
+              "path": "/endpoints/ipos",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "endpoints/losers",
+              "path": "/endpoints/losers",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "endpoints/news",
+              "path": "/endpoints/news",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "endpoints/stocks-by-code",
+              "path": "/endpoints/stocks-by-code",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "endpoints/trending",
+              "path": "/endpoints/trending",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/",
+              "sidebar": "docsSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docsSidebar": {
+              "link": {
+                "path": "/",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

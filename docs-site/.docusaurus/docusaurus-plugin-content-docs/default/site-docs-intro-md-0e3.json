@@ -1,0 +1,22 @@
+{
+  "id": "intro",
+  "title": "Overview",
+  "description": "API ini menyediakan endpoint GET untuk mengambil data berita dari website StockAnalysis.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "/",
+    "title": "Overview"
+  },
+  "sidebar": "docsSidebar",
+  "next": {
+    "title": "GET /api/news",
+    "permalink": "/endpoints/news"
+  }
+}

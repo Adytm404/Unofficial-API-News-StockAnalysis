@@ -1,0 +1,25 @@
+{
+  "id": "endpoints/ipos",
+  "title": "GET /api/news/ipos",
+  "description": "Mengambil daftar berita IPO dari halaman berikut:",
+  "source": "@site/docs/endpoints/ipos.md",
+  "sourceDirName": "endpoints",
+  "slug": "/endpoints/ipos",
+  "permalink": "/endpoints/ipos",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "GET /api/news/ipos"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "GET /api/news",
+    "permalink": "/endpoints/news"
+  },
+  "next": {
+    "title": "GET /api/news/{code}",
+    "permalink": "/endpoints/stocks-by-code"
+  }
+}

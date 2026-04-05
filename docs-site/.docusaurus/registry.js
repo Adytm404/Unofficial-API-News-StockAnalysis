@@ -1,0 +1,14 @@
+export default {
+  "0605b907": [() => import(/* webpackChunkName: "0605b907" */ "@site/docs/endpoints/news.md"), "@site/docs/endpoints/news.md", require.resolveWeak("@site/docs/endpoints/news.md")],
+  "0e384e19": [() => import(/* webpackChunkName: "0e384e19" */ "@site/docs/intro.md"), "@site/docs/intro.md", require.resolveWeak("@site/docs/intro.md")],
+  "15e42c25": [() => import(/* webpackChunkName: "15e42c25" */ "@site/docs/endpoints/stocks-by-code.md"), "@site/docs/endpoints/stocks-by-code.md", require.resolveWeak("@site/docs/endpoints/stocks-by-code.md")],
+  "17896441": [() => import(/* webpackChunkName: "17896441" */ "@theme/DocItem"), "@theme/DocItem", require.resolveWeak("@theme/DocItem")],
+  "19bbe40f": [() => import(/* webpackChunkName: "19bbe40f" */ "@site/docs/endpoints/trending.md"), "@site/docs/endpoints/trending.md", require.resolveWeak("@site/docs/endpoints/trending.md")],
+  "22dd74f7": [() => import(/* webpackChunkName: "22dd74f7" */ "@generated/docusaurus-plugin-content-docs/default/p/index-466.json"), "@generated/docusaurus-plugin-content-docs/default/p/index-466.json", require.resolveWeak("@generated/docusaurus-plugin-content-docs/default/p/index-466.json")],
+  "5e95c892": [() => import(/* webpackChunkName: "5e95c892" */ "@theme/DocsRoot"), "@theme/DocsRoot", require.resolveWeak("@theme/DocsRoot")],
+  "8d69f4be": [() => import(/* webpackChunkName: "8d69f4be" */ "@site/docs/endpoints/losers.md"), "@site/docs/endpoints/losers.md", require.resolveWeak("@site/docs/endpoints/losers.md")],
+  "a7bd4aaa": [() => import(/* webpackChunkName: "a7bd4aaa" */ "@theme/DocVersionRoot"), "@theme/DocVersionRoot", require.resolveWeak("@theme/DocVersionRoot")],
+  "a94703ab": [() => import(/* webpackChunkName: "a94703ab" */ "@theme/DocRoot"), "@theme/DocRoot", require.resolveWeak("@theme/DocRoot")],
+  "aba21aa0": [() => import(/* webpackChunkName: "aba21aa0" */ "@generated/docusaurus-plugin-content-docs/default/__plugin.json"), "@generated/docusaurus-plugin-content-docs/default/__plugin.json", require.resolveWeak("@generated/docusaurus-plugin-content-docs/default/__plugin.json")],
+  "bbaccbd1": [() => import(/* webpackChunkName: "bbaccbd1" */ "@site/docs/endpoints/ipos.md"), "@site/docs/endpoints/ipos.md", require.resolveWeak("@site/docs/endpoints/ipos.md")],
+  "e1ae2a21": [() => import(/* webpackChunkName: "e1ae2a21" */ "@site/docs/endpoints/gainers.md"), "@site/docs/endpoints/gainers.md", require.resolveWeak("@site/docs/endpoints/gainers.md")],};

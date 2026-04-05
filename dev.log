@@ -1,0 +1,39 @@
+
+> be-next-stockanalysts@1.0.0 dev
+> npm run docs:build && node server.js --dev
+
+
+> be-next-stockanalysts@1.0.0 docs:build
+> docusaurus build docs-site
+
+
+ ------------------------------------------------------------------------------                                                                                                          Update available 3.8.1 → 3.9.2                                                                                                                 To upgrade Docusaurus packages with the latest version, run the                                       following command:                                       `npm i @docusaurus/core@latest @docusaurus/preset-classic@latest`                                                                                         ------------------------------------------------------------------------------ 
+
+[INFO] [id] Creating an optimized production build...
+[90m[[90mwebpackbar[90m][39m [36mℹ[39m Compiling Client
+[90m[[90mwebpackbar[90m][39m [36mℹ[39m Compiling Server
+[90m[[90mwebpackbar[90m][39m [32m✔[39m Server: Compiled successfully in 871.25ms
+[90m[[90mwebpackbar[90m][39m [32m✔[39m Client: Compiled successfully in 963.08ms
+[WARNING] Docusaurus found broken links!
+
+Please check the pages of your site in the list below, and make sure you don't reference any path that does not exist.
+Note: it's possible to ignore broken links with the 'onBrokenLinks' Docusaurus configuration, and let the build pass.
+
+Exhaustive list of all broken links found:
+- Broken link on source page path = /404.html:
+   -> linking to /api/news
+   -> linking to /api/news/ipos
+- Broken link on source page path = /endpoints/ipos:
+   -> linking to /api/news
+   -> linking to /api/news/ipos
+- Broken link on source page path = /endpoints/news:
+   -> linking to /api/news
+   -> linking to /api/news/ipos
+- Broken link on source page path = /:
+   -> linking to /api/news
+   -> linking to /api/news/ipos
+
+[SUCCESS] Generated static files in "docs-site\build".
+[INFO] Use `npm run serve` command to test your build locally.
+> Ready on http://localhost:3000
+^C^C

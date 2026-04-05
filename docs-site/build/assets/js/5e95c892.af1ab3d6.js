@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbe_next_stockanalysts=self.webpackChunkbe_next_stockanalysts||[]).push([[647],{7121(e,s,t){t.r(s),t.d(s,{default:()=>k});t(6540);var a=t(4164),n=t(7559),r=t(5500),c=t(2831),u=t(1656),l=t(4848);function k(e){return(0,l.jsx)(r.e3,{className:(0,a.A)(n.G.wrapper.docsPages),children:(0,l.jsx)(u.A,{children:(0,c.v)(e.route.routes)})})}}}]);

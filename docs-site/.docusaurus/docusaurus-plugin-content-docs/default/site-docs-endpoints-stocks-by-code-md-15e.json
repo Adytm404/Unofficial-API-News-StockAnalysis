@@ -1,0 +1,25 @@
+{
+  "id": "endpoints/stocks-by-code",
+  "title": "GET /api/news/{code}",
+  "description": "Mengambil daftar news berdasarkan kode saham dari halaman stock detail StockAnalysis.",
+  "source": "@site/docs/endpoints/stocks-by-code.md",
+  "sourceDirName": "endpoints",
+  "slug": "/endpoints/stocks-by-code",
+  "permalink": "/endpoints/stocks-by-code",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "GET /api/news/{code}"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "GET /api/news/ipos",
+    "permalink": "/endpoints/ipos"
+  },
+  "next": {
+    "title": "GET /api/trending",
+    "permalink": "/endpoints/trending"
+  }
+}

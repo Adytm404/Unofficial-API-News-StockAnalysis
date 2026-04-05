@@ -1,0 +1,25 @@
+{
+  "id": "endpoints/news",
+  "title": "GET /api/news",
+  "description": "Mengambil daftar berita umum dari halaman berikut:",
+  "source": "@site/docs/endpoints/news.md",
+  "sourceDirName": "endpoints",
+  "slug": "/endpoints/news",
+  "permalink": "/endpoints/news",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "GET /api/news"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "GET /api/news/ipos",
+    "permalink": "/endpoints/ipos"
+  }
+}

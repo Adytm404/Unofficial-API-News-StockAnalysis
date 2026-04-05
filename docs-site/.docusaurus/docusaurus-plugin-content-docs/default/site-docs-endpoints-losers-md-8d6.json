@@ -1,0 +1,21 @@
+{
+  "id": "endpoints/losers",
+  "title": "GET /api/losers",
+  "description": "Mengambil data today dari halaman berikut:",
+  "source": "@site/docs/endpoints/losers.md",
+  "sourceDirName": "endpoints",
+  "slug": "/endpoints/losers",
+  "permalink": "/endpoints/losers",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "GET /api/losers"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "GET /api/gainers",
+    "permalink": "/endpoints/gainers"
+  }
+}
