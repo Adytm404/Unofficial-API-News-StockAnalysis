@@ -5,6 +5,7 @@ export default {
   "17896441": [() => import(/* webpackChunkName: "17896441" */ "@theme/DocItem"), "@theme/DocItem", require.resolveWeak("@theme/DocItem")],
   "19bbe40f": [() => import(/* webpackChunkName: "19bbe40f" */ "@site/docs/endpoints/trending.md"), "@site/docs/endpoints/trending.md", require.resolveWeak("@site/docs/endpoints/trending.md")],
   "22dd74f7": [() => import(/* webpackChunkName: "22dd74f7" */ "@generated/docusaurus-plugin-content-docs/default/p/index-466.json"), "@generated/docusaurus-plugin-content-docs/default/p/index-466.json", require.resolveWeak("@generated/docusaurus-plugin-content-docs/default/p/index-466.json")],
+  "4d08cda0": [() => import(/* webpackChunkName: "4d08cda0" */ "@site/docs/endpoints/ratings.md"), "@site/docs/endpoints/ratings.md", require.resolveWeak("@site/docs/endpoints/ratings.md")],
   "5e95c892": [() => import(/* webpackChunkName: "5e95c892" */ "@theme/DocsRoot"), "@theme/DocsRoot", require.resolveWeak("@theme/DocsRoot")],
   "8d69f4be": [() => import(/* webpackChunkName: "8d69f4be" */ "@site/docs/endpoints/losers.md"), "@site/docs/endpoints/losers.md", require.resolveWeak("@site/docs/endpoints/losers.md")],
   "a7bd4aaa": [() => import(/* webpackChunkName: "a7bd4aaa" */ "@theme/DocVersionRoot"), "@theme/DocVersionRoot", require.resolveWeak("@theme/DocVersionRoot")],

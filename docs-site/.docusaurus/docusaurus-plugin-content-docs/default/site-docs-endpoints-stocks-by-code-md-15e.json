@@ -19,7 +19,7 @@
     "permalink": "/endpoints/ipos"
   },
   "next": {
-    "title": "GET /api/trending",
-    "permalink": "/endpoints/trending"
+    "title": "GET /api/ratings/{code}",
+    "permalink": "/endpoints/ratings"
   }
 }

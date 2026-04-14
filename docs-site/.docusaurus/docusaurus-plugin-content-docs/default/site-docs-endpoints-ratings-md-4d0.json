@@ -1,0 +1,26 @@
+{
+  "id": "endpoints/ratings",
+  "title": "GET /api/ratings/{code}",
+  "description": "Mengambil data analyst ratings dan ratings history berdasarkan kode saham.",
+  "source": "@site/docs/endpoints/ratings.md",
+  "sourceDirName": "endpoints",
+  "slug": "/endpoints/ratings",
+  "permalink": "/endpoints/ratings",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "/endpoints/ratings",
+    "title": "GET /api/ratings/{code}"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "GET /api/news/{code}",
+    "permalink": "/endpoints/stocks-by-code"
+  },
+  "next": {
+    "title": "GET /api/trending",
+    "permalink": "/endpoints/trending"
+  }
+}

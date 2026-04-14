@@ -15,8 +15,8 @@
   },
   "sidebar": "docsSidebar",
   "previous": {
-    "title": "GET /api/news/{code}",
-    "permalink": "/endpoints/stocks-by-code"
+    "title": "GET /api/ratings/{code}",
+    "permalink": "/endpoints/ratings"
   },
   "next": {
     "title": "GET /api/gainers",

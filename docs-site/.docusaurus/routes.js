@@ -4,15 +4,15 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/',
-    component: ComponentCreator('/', '200'),
+    component: ComponentCreator('/', '3f2'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', 'df3'),
+        component: ComponentCreator('/', '43f'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', '7bb'),
+            component: ComponentCreator('/', '6f5'),
             routes: [
               {
                 path: '/endpoints/gainers',
@@ -35,6 +35,12 @@ export default [
               {
                 path: '/endpoints/news',
                 component: ComponentCreator('/endpoints/news', 'aee'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
+              {
+                path: '/endpoints/ratings',
+                component: ComponentCreator('/endpoints/ratings', '592'),
                 exact: true,
                 sidebar: "docsSidebar"
               },
