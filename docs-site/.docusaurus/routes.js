@@ -4,16 +4,22 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/',
-    component: ComponentCreator('/', '3f2'),
+    component: ComponentCreator('/', '913'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', '43f'),
+        component: ComponentCreator('/', '517'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', '6f5'),
+            component: ComponentCreator('/', 'ca7'),
             routes: [
+              {
+                path: '/endpoints/etf-by-code',
+                component: ComponentCreator('/endpoints/etf-by-code', 'e22'),
+                exact: true,
+                sidebar: "docsSidebar"
+              },
               {
                 path: '/endpoints/gainers',
                 component: ComponentCreator('/endpoints/gainers', '9ce'),

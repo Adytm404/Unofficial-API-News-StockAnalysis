@@ -1,0 +1,25 @@
+{
+  "id": "endpoints/etf-by-code",
+  "title": "GET /api/news/etf/{code}",
+  "description": "Mengambil daftar news berdasarkan kode ETF dari halaman detail StockAnalysis.",
+  "source": "@site/docs/endpoints/etf-by-code.md",
+  "sourceDirName": "endpoints",
+  "slug": "/endpoints/etf-by-code",
+  "permalink": "/endpoints/etf-by-code",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "GET /api/news/etf/{code}"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "GET /api/ratings/{code}",
+    "permalink": "/endpoints/ratings"
+  },
+  "next": {
+    "title": "GET /api/trending",
+    "permalink": "/endpoints/trending"
+  }
+}

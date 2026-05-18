@@ -2,13 +2,14 @@
 
 An unofficial API built with Next.js for scraping selected public data from [StockAnalysis](https://stockanalysis.com/).
 
-This project exposes JSON endpoints for general news, IPO news, ticker-specific news, trending stocks, top gainers, and top losers. It also includes a Docusaurus-powered documentation homepage and a simple uptime monitoring page.
+This project exposes JSON endpoints for general news, IPO news, ticker-specific stock and ETF news, trending stocks, top gainers, and top losers. It also includes a Docusaurus-powered documentation homepage and a simple uptime monitoring page.
 
 ## Features
 
 - `GET /api/news` for general stock market news
 - `GET /api/news/ipos` for IPO-related news
 - `GET /api/news/{code}` for ticker-specific stock news
+- `GET /api/news/etf/{code}` for ticker-specific ETF news
 - `GET /api/trending` for `Trending Today` top stocks
 - `GET /api/gainers` for top stock gainers today
 - `GET /api/losers` for top stock losers today
@@ -29,6 +30,7 @@ This project exposes JSON endpoints for general news, IPO news, ticker-specific 
 - `/api/news`
 - `/api/news/ipos`
 - `/api/news/{code}`
+- `/api/news/etf/{code}`
 - `/api/trending`
 - `/api/gainers`
 - `/api/losers`
@@ -90,6 +92,12 @@ GET /api/news/ipos
 
 ```bash
 GET /api/news/aapl
+```
+
+### ETF-Specific News
+
+```bash
+GET /api/news/etf/voo
 ```
 
 ### Trending Stocks

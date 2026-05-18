@@ -8,6 +8,7 @@ export default {
   "4d08cda0": [() => import(/* webpackChunkName: "4d08cda0" */ "@site/docs/endpoints/ratings.md"), "@site/docs/endpoints/ratings.md", require.resolveWeak("@site/docs/endpoints/ratings.md")],
   "5e95c892": [() => import(/* webpackChunkName: "5e95c892" */ "@theme/DocsRoot"), "@theme/DocsRoot", require.resolveWeak("@theme/DocsRoot")],
   "8d69f4be": [() => import(/* webpackChunkName: "8d69f4be" */ "@site/docs/endpoints/losers.md"), "@site/docs/endpoints/losers.md", require.resolveWeak("@site/docs/endpoints/losers.md")],
+  "9521d304": [() => import(/* webpackChunkName: "9521d304" */ "@site/docs/endpoints/etf-by-code.md"), "@site/docs/endpoints/etf-by-code.md", require.resolveWeak("@site/docs/endpoints/etf-by-code.md")],
   "a7bd4aaa": [() => import(/* webpackChunkName: "a7bd4aaa" */ "@theme/DocVersionRoot"), "@theme/DocVersionRoot", require.resolveWeak("@theme/DocVersionRoot")],
   "a94703ab": [() => import(/* webpackChunkName: "a94703ab" */ "@theme/DocRoot"), "@theme/DocRoot", require.resolveWeak("@theme/DocRoot")],
   "aba21aa0": [() => import(/* webpackChunkName: "aba21aa0" */ "@generated/docusaurus-plugin-content-docs/default/__plugin.json"), "@generated/docusaurus-plugin-content-docs/default/__plugin.json", require.resolveWeak("@generated/docusaurus-plugin-content-docs/default/__plugin.json")],

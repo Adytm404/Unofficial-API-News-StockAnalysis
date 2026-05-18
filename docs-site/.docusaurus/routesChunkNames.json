@@ -1,16 +1,20 @@
 {
-  "/-3f2": {
+  "/-913": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/-43f": {
+  "/-517": {
     "__comp": "a7bd4aaa",
     "__props": "22dd74f7"
   },
-  "/-6f5": {
+  "/-ca7": {
     "__comp": "a94703ab"
+  },
+  "/endpoints/etf-by-code-e22": {
+    "__comp": "17896441",
+    "content": "9521d304"
   },
   "/endpoints/gainers-9ce": {
     "__comp": "17896441",

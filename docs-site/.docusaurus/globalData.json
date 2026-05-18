@@ -11,6 +11,11 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "endpoints/etf-by-code",
+              "path": "/endpoints/etf-by-code",
+              "sidebar": "docsSidebar"
+            },
+            {
               "id": "endpoints/gainers",
               "path": "/endpoints/gainers",
               "sidebar": "docsSidebar"

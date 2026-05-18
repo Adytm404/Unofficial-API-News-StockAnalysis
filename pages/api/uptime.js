@@ -5,7 +5,8 @@ const monitoredRoutes = [
   '/api/gainers',
   '/api/losers',
   '/api/news/aapl',
-  '/api/ratings/nvda'
+  '/api/ratings/nvda',
+  '/api/news/etf/voo'
 ]
 
 async function checkRoute(baseUrl, route) {

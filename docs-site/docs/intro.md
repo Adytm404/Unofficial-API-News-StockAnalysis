@@ -51,6 +51,12 @@ Mengambil data analyst ratings dan ratings history berdasarkan kode saham, misal
 
 `https://stockanalysis.com/stocks/nvda/ratings/`
 
+### `GET /api/news/etf/{code}`
+
+Mengambil news berdasarkan kode ETF dari halaman detail, misalnya:
+
+`https://stockanalysis.com/etf/voo/`
+
 ## Format Response Umum
 
 ### Untuk Endpoint News:
